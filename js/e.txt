@@ -1,0 +1,2 @@
+<iframe src=
+"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3876.6925469825433!2d100.33584897585577!3d13.676449886707593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e2be1280ef64c1%3A0xf9813cde33990b86!2z4Lin4Lix4LiU4Lir4LiZ4Lit4LiH4LmB4LiC4Lih!5e0!3m2!1sth!2sth!4v1788599276554!5m2!1sth!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>

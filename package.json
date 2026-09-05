@@ -1,0 +1,14 @@
+{
+  "name": "pet-grooming-template",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve . -l 5500",
+    "dev": "npx live-server --port=5500 --open=/index.html",
+    "clean": "rm -rf node_modules .cache .parcel-cache dist"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.4"
+  }
+}
